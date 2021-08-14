@@ -150,4 +150,10 @@ main {
   font-size:40px;
   font-weight: bold;
 }
+/* responsive */
+@media screen and (max-width: 768px){
+  .search-box {
+    width: 100%;
+  }
+}
 </style>
